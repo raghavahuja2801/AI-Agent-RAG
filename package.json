@@ -1,0 +1,1 @@
+{"type":"module","dependencies":{"@google-cloud/text-to-speech":"^5.7.0","@pinecone-database/pinecone":"^4.0.0","axios":"^1.7.9","express":"^4.21.2","googleapis":"^144.0.0","openai":"^4.77.0","path":"^0.12.7","pinecone-client":"^2.0.0","twilio":"^5.4.0"}}
